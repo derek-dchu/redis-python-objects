@@ -4,13 +4,13 @@ A simple redis mapper aiming to associate redis datatype with similar Python dat
 
 Usage
 -----
-RStr <=> str
+* RStr <=> str
 
-RInt <=> int
-Note: RInt is a string within redis
+* RInt <=> int
+	> Note: RInt is a string within redis
 
 TODO
 ----
-RList <=> list
-RSet <=> set
-RHash <=> dict
+* RList <=> list
+* RSet <=> set
+* RHash <=> dict
